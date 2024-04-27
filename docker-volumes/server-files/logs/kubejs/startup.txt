@@ -1,0 +1,10 @@
+[01:38:20] [INFO ] Loaded script startup_scripts:blockModification.js in 0.287 s
+[01:38:20] [INFO ] Loaded script startup_scripts:blockRegistry.js in 0.034 s
+[01:38:20] [INFO ] Loaded script startup_scripts:fluidRegistry.js in 0.039 s
+[01:38:20] [INFO ] Loaded script startup_scripts:glyph.js in 0.026 s
+[01:38:20] [INFO ] Loaded script startup_scripts:itemRegistry.js in 0.068 s
+[01:38:20] [INFO ] Loaded script startup_scripts:spoutRecipes.js in 0.023 s
+[01:38:20] [INFO ] Loaded script startup_scripts:tradecardRegistry.js in 0.095 s
+[01:38:20] [INFO ] Loaded script startup_scripts:worldgenAdd.js in 0.006 s
+[01:38:20] [INFO ] Loaded script startup_scripts:worldgenRemove.js in 0.007 s
+[01:38:20] [INFO ] Loaded 9/9 KubeJS startup scripts in 3.296 s

@@ -1,0 +1,10 @@
+services:
+
+  mcserver:
+    build: ./mc-server
+    image: mc-server
+    ports:
+      - 55555:55555
+    command: sh ./server-files/startserver.sh
+    volumes:
+      - ./docker-volumes/server-files/:/opt/server/server-files/

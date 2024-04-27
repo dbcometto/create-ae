@@ -1,0 +1,326 @@
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:Constants/trees.js in 0.011 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:Constants/woodVariants.js in 0.024 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:itemRightclicked.js in 0.016 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:assembly.js in 0.014 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:tags.js in 0.007 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:andesiteRadar.js in 0.012 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:backpackUpgrading.js in 0.013 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:blockLoottables.js in 0.006 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:blockpaster.js in 0.008 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:chapter4.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:chapter5.js in 0.006 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:chapter5Calculation.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:chapter6.js in 0.01 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:chapterM3.js in 0.006 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:chapterM4.js in 0.008 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:clearItems.js in 0.011 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:compatRecipes.js in 0.028 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:deploying.js in 0.009 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:draining.js in 0.01 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:encased_stuff.js in 0.014 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:filling.js in 0.033 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:fluidTransformation.js in 0.03 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:Functions/functions.js in 0.008 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:gameStages.js in 0.007 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:immersivefix.js in 0.006 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:integrated_dynamics.js in 0.009 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:liquidBlazeBurnerBlockHeatFix.js in 0.006 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:loginMessage.js in 0.007 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:lootbags.js in 0.007 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:mechanicalCrafter.js in 0.011 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:milling.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:mixing.js in 0.007 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:mysteriousConversion.js in 0.019 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:orbitMagic.js in 0.007 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:patienceFragment.js in 0.008 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:pneumaticraft.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:pressing.js in 0.007 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:recipeRemoval.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:rolling.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:sawCutting.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:shaped.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:shapeless.js in 0.007 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:smelting.js in 0.004 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:sounds.js in 0.01 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:stellaFix.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:structure.js in 0.015 s
+[01:43:12] [INFO ] server_scripts:tasks.js:8: [[[[[minecraft:quartz,2.0,9.0],[1.0,1.0]],[[minecraft:raw_gold,8.0,1.0],[1.5,0.0]],[[minecraft:diamond,12.0,1.0],[2.0,-1.0]],[[minecraft:tuff,1.0,6.0],[2.0,1.0]],[[minecraft:calcite,3.0,8.0],[2.5,0.0]],[[minecraft:quartz,1.0,6.0],[3.0,0.0]],[[minecraft:raw_iron,4.0,2.0],[3.0,1.0]],[[minecraft:iron_ingot,1.0,3.0],[3.5,1.0]],[[minecraft:iron_block,8.0,1.0],[3.7,0.0]],[[minecraft:copper_ingot,2.0,6.0],[4.0,-1.0]]],quests:mining_task],[[[[minecraft:nether_wart,1.0,3.0],[1.0,1.0]],[[minecraft:melon,3.0,4.0],[1.5,0.0]],[[minecraft:potato,1.0,9.0],[2.0,-1.0]],[[minecraft:carrot,1.0,9.0],[2.0,1.0]],[[minecraft:sugar_cane,1.0,8.0],[2.5,0.0]],[[minecraft:chorus_fruit,1.0,2.0],[3.0,0.0]],[[minecraft:pumpkin,3.0,4.0],[3.0,1.0]],[[farmersdelight:rice_bag,2.0,1.0],[3.5,1.0]],[[minecraft:apple,1.0,3.0],[3.7,0.0]],[[minecraft:glow_berries,1.0,16.0],[4.0,-1.0]]],quests:farming_task],[[[[minecraft:fire_charge,16.0,1.0],[1.0,1.0]],[[minecraft:experience_bottle,5.0,5.0],[1.5,0.0]],[[forbidden_arcanus:arcane_gold_ingot,24.0,1.0],[2.0,-1.0]],[[minecraft:saddle,16.0,1.0],[2.0,1.0]],[[minecraft:name_tag,5.0,1.0],[2.5,0.0]],[[forbidden_arcanus:dragon_scale,32.0,1.0],[3.0,0.0]],[[minecraft:bundle,16.0,1.0],[3.0,1.0]],[[quark:bottled_cloud,5.0,6.0],[3.5,1.0]],[[minecraft:enchanted_golden_apple,40.0,1.0],[3.7,0.0]],[[minecraft:glowstone,2.0,5.0],[4.0,-1.0]]],quests:collecting_task],[[[[minecraft:acacia_log,1.0,32.0],[1.0,1.0]],[[tconstruct:bloodshroom_log,1.0,20.0],[1.5,0.0]],[[minecraft:jungle_log,1.0,32.0],[2.0,-1.0]],[[minecraft:dark_oak_log,1.0,32.0],[2.0,1.0]],[[minecraft:birch_log,1.0,32.0],[2.5,0.0]],[[integrateddynamics:menril_log,1.0,26.0],[3.0,0.0]],[[minecraft:spruce_log,1.0,32.0],[3.0,1.0]],[[minecraft:oak_log,1.0,32.0],[3.5,1.0]],[[minecraft:warped_stem,1.0,26.0],[3.7,0.0]],[[minecraft:crimson_stem,1.0,26.0],[4.0,-1.0]]],quests:deforesting_task],[[[[minecraft:pufferfish_bucket,6.0,1.0],[1.0,1.0]],[[minecraft:cod_bucket,2.0,1.0],[1.5,0.0]],[[minecraft:glow_ink_sac,3.0,5.0],[2.0,-1.0]],[[minecraft:salmon,1.0,3.0],[2.0,1.0]],[[minecraft:fishing_rod,1.0,1.0],[2.5,0.0]],[[minecraft:salmon_bucket,2.0,1.0],[3.0,0.0]],[[minecraft:axolotl_bucket,8.0,1.0],[3.0,1.0]],[[minecraft:ink_sac,1.0,3.0],[3.5,1.0]],[[minecraft:nautilus_shell,20.0,1.0],[3.7,0.0]],[[minecraft:tropical_fish,6.0,1.0],[4.0,-1.0]]],quests:fishing_task],[[[[minecraft:mutton,1.0,8.0],[1.0,1.0]],[[minecraft:honeycomb_block,3.0,3.0],[1.5,0.0]],[[minecraft:chicken,1.0,12.0],[2.0,-1.0]],[[minecraft:feather,1.0,4.0],[2.0,1.0]],[[minecraft:white_wool,1.0,32.0],[2.5,0.0]],[[minecraft:scute,20.0,1.0],[3.0,0.0]],[[quark:diamond_heart,24.0,1.0],[3.0,1.0]],[[minecraft:porkchop,1.0,8.0],[3.5,1.0]],[[minecraft:egg,1.0,16.0],[3.7,0.0]],[[minecraft:turtle_egg,10.0,1.0],[4.0,-1.0]]],quests:hunting_task],[[[[minecraft:rotten_flesh,1.0,16.0],[1.0,1.0]],[[quark:slime_in_a_bucket,1.0,1.0],[1.5,0.0]],[[minecraft:shulker_shell,10.0,1.0],[2.0,-1.0]],[[minecraft:string,1.0,8.0],[2.0,1.0]],[[minecraft:ender_pearl,1.0,6.0],[2.5,0.0]],[[minecraft:spider_eye,1.0,4.0],[3.0,0.0]],[[minecraft:slime_ball,1.0,3.0],[3.0,1.0]],[[minecraft:prismarine_shard,1.0,4.0],[3.5,1.0]],[[minecraft:prismarine_crystals,1.0,2.0],[3.7,0.0]],[[minecraft:blaze_rod,1.0,4.0],[4.0,-1.0]]],quests:slaying_task]] [dev.latvian.mods.kubejs.util.ListJS]
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:tasks.js in 0.012 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:thermal.js in 0.006 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:tinkers.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:tracktool.js in 0.004 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:treeExtractor.js in 0.008 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:voidMine.js in 0.006 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded script server_scripts:washing.js in 0.005 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Loaded 53/53 KubeJS server scripts in 0.652 s
+[01:43:12] [INFO ] server_scripts:tasks.js:211: Scripts loaded
+[01:43:12] [WARN ] server_scripts:tasks.js:211: Failed to register handler for recipe type ars_nouveau:glyph_recipe as it doesn't exist!
+[01:43:13] [INFO ] server_scripts:tasks.js:211: Scanning recipes...
+[01:43:13] [INFO ] [fluids] Found 148 tags, added 1 objects, removed 0 objects
+[01:43:13] [INFO ] [fluids] Found 148 tags, added 1 objects, removed 0 objects
+[01:43:14] [INFO ] [worldgen/biome] Found 233 tags, added 134 objects, removed 0 objects
+[01:43:17] [INFO ] [blocks] Found 1250 tags, added 1526 objects, removed 0 objects
+[01:43:17] [INFO ] [blocks] Found 1250 tags, added 1526 objects, removed 0 objects
+[01:43:18] [INFO ] [items] Found 1699 tags, added 256 objects, removed 0 objects
+[01:43:18] [INFO ] [items] Found 1701 tags, added 374 objects, removed 0 objects
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_starlit[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:starlit_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_blue_skies_starlit[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:starlit_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'epicsamurai:source_gem_samruai_helmet_ritual[ars_nouveau:enchanting_apparatus]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe epicsamurai:source_gem_samruai_helmet_ritual[ars_nouveau:enchanting_apparatus]: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'immersive_weathering:waxed_cut_iron_stairs_from_waxed_plate_iron_stonecutting[minecraft:stonecutting]': "immersive_weathering:waxed_cut_copper_stairs" is not a valid result!
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'create_crystal_clear:steel_glass_casing[create:item_application]': {"item":"create_crystal_clear:steel_glass_casing"} is not a valid result!
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'dramaticdoors:short_cherrywood_door[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:cherry_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe dramaticdoors:short_cherrywood_door[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:cherry_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'dramaticdoors:tall_byg_florus_door[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:florus_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe dramaticdoors:tall_byg_florus_door[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'byg:florus_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'dramaticdoors:tall_byg_ironwood_door[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:ironwood_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe dramaticdoors:tall_byg_ironwood_door[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'byg:ironwood_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_darkwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:dark_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_twilightforest_darkwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:dark_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_sortingwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:sorting_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_twilightforest_sortingwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:sorting_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_maple[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:maple_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_blue_skies_maple[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:maple_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'immersive_weathering:waxed_plate_iron_stairs_from_stonecutting[minecraft:stonecutting]': "immersive_weathering:waxed_plate_copper_stairs" is not a valid result!
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'dramaticdoors:short_deorum_door[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:deorum_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe dramaticdoors:short_deorum_door[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:deorum_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'davebuildingmod:rec_smoke_stack_opening[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'davebuildingmod:deleted_mod_element'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe davebuildingmod:rec_smoke_stack_opening[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'davebuildingmod:deleted_mod_element'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_cherry[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_blue_skies_cherry[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_hexcasting_edified[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'hexcasting:akashic_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_hexcasting_edified[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'hexcasting:akashic_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_frostbright[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:frostbright_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_blue_skies_frostbright[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:frostbright_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'thermal:compat/create/pulverizer_create_zinc_ore[thermal:pulverizer]': {"value":[{"tag":"forge:ores/zinc"},{"item":"create:deepslate_zinc"}]} is not a valid ingredient!
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_timewood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:time_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_twilightforest_timewood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:time_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'pneumaticcraft:pneumaticcraft_fuels/cofh_biofuel[pneumaticcraft:fuel_quality]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid 'thermal:refined_biofuel'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe pneumaticcraft:pneumaticcraft_fuels/cofh_biofuel[pneumaticcraft:fuel_quality]: com.google.gson.JsonSyntaxException: Unknown fluid 'thermal:refined_biofuel'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_transwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_twilightforest_transwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'createaddition:compat/tconstruct/tinkers_bronze[create:mixing]': {"item":"tconstruct:tinkers_bronze_ingot","count":3} is not a valid result!
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_twilight_oak[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:twilight_oak_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_twilightforest_twilight_oak[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:twilight_oak_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'epicsamurai:source_gem_samruai_leggings_ritual[ars_nouveau:enchanting_apparatus]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe epicsamurai:source_gem_samruai_leggings_ritual[ars_nouveau:enchanting_apparatus]: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'dramaticdoors:tall_byg_soul_shroom_door[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:soul_shroom_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe dramaticdoors:tall_byg_soul_shroom_door[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'byg:soul_shroom_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'infernalexp:stonecutting/basalt_bricks_vertical_slab[minecraft:stonecutting]': "infernalexp:basalt_bricks_vertical_slab" is not a valid result!
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_lunar[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:lunar_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_blue_skies_lunar[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:lunar_slab'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'epicsamurai:source_gem_samruai_boots_ritual[ars_nouveau:enchanting_apparatus]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe epicsamurai:source_gem_samruai_boots_ritual[ars_nouveau:enchanting_apparatus]: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'dramaticdoors:short_bamboo_door[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:bamboo_door'
+[01:43:43] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe dramaticdoors:short_bamboo_door[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'quark:bamboo_door'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_canopy[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:canopy_slab'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_twilightforest_canopy[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:canopy_slab'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_minewood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mining_slab'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_twilightforest_minewood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mining_slab'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'dramaticdoors:short_aurum_door[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:aurum_door'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe dramaticdoors:short_aurum_door[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:aurum_door'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'create_crystal_clear:steel_tinted_glass_casing[create:item_application]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_crystal_clear:steel_glass_casing'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe create_crystal_clear:steel_tinted_glass_casing[create:item_application]: com.google.gson.JsonSyntaxException: Unknown item 'create_crystal_clear:steel_glass_casing'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_bluebright[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:bluebright_slab'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_blue_skies_bluebright[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:bluebright_slab'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_mangrove[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mangrove_slab'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_twilightforest_mangrove[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mangrove_slab'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'epicsamurai:source_gem_samruai_chestplate_ritual[ars_nouveau:enchanting_apparatus]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe epicsamurai:source_gem_samruai_chestplate_ritual[ars_nouveau:enchanting_apparatus]: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'dramaticdoors:short_byg_white_mangrove_door[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:white_mangrove_door'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe dramaticdoors:short_byg_white_mangrove_door[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'byg:white_mangrove_door'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_dusk[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:dusk_slab'
+[01:43:44] [WARN ] server_scripts:tasks.js:211: Failed to parse recipe railways:sequenced_assembly/track_blue_skies_dusk[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:dusk_slab'
+[01:43:44] [INFO ] server_scripts:tasks.js:211: Found 15773 recipes and 0 failed recipes in 1.302 s
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:andesite_machine' to '2x create:portable_storage_interface'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:andesite_machine' to '2x create:mechanical_harvester'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:andesite_machine' to '2x create:mechanical_plough'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:andesite_machine' to '4x create:andesite_funnel'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:andesite_machine' to '4x create:andesite_tunnel'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:andesite_machine' to '2x create:weighted_ejector'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:andesite_machine' to 'createaddition:rolling_mill'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:drill_head' to 'create:mechanical_drill' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:saw_blade' to 'create:mechanical_saw' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:rf_coil' to 'thermal:dynamo_stirling' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:propeller' to 'create:encased_fan' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:iron_block' to 'create:mechanical_press' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:whisk' to 'create:mechanical_mixer' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:brass_hand' to 'create:deployer' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:bucket' to 'thermal:device_tree_extractor' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:compass' to 'ae2:sky_compass' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'createaddition:copper_rod' to '4x createaddition:connector' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'createaddition:capacitor' to 'createaddition:alternator' from kubejs:andesite_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:crafting_table' to '3x create:mechanical_crafter' from kubejs:brass_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:glowstone_dust' to 'torchmaster:feral_flare_lantern' from kubejs:brass_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:rf_coil' to 'thermal:dynamo_numismatic' from kubejs:brass_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'ae2:fluix_crystal' to 'createaddition:tesla_coil' from kubejs:brass_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'createaddition:capacitor' to 'createaddition:modular_accumulator' from kubejs:brass_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'createaddition:connector' to 'createaddition:portable_energy_interface' from kubejs:brass_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:rotation_speed_controller' to 'createaddition:electric_motor' from kubejs:brass_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:silver_coin' to Item.of('custommachinery:custom_machine_item', '{machine:"quests:quest_station"}') from kubejs:brass_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'functionalstorage:oak_2' to 'functionalstorage:storage_controller' from kubejs:brass_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '4x create:redstone_link'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x create:powered_toggle_latch'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x create:powered_latch'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x create:pulse_extender'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x create:pulse_repeater'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x minecraft:repeater'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x minecraft:comparator'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x minecraft:daylight_detector'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x create:sequenced_gearshift'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to 'create:rotation_speed_controller'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to 'create:mechanical_arm'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x create:stockpile_switch'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x create:content_observer'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x create:stockpile_switch'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '4x create:brass_funnel'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '4x create:brass_tunnel'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '2x create:display_link'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:brass_machine' to '6x create:display_board'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:sealed_machine' to '2x create:smart_fluid_pipe'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:sealed_machine' to 'create:hose_pulley'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:sealed_machine' to '2x create:portable_fluid_interface'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:sealed_machine' to '3x create:steam_engine'
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:copper_block' to 'create:copper_backtank' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:hopper' to '2x create:spout' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:iron_bars' to 'create:item_drain' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:rf_coil' to 'thermal:dynamo_magmatic' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:bucket' to 'thermal:device_water_gen' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:crafting_table' to 'thermal:tinker_bench' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:composter' to 'thermal:device_composter' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create Item.of('minecraft:fishing_rod', '{Damage:0}') to 'thermal:device_fisher' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create Item.of('minecraft:shears', '{Damage:0}') to 'thermal:device_hive_extractor' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:fluid_cell_frame' to 'thermal:fluid_cell' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'tconstruct:seared_ingot_gauge' to '2x tconstruct:seared_melter' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:obsidian' to '2x functionalstorage:void_upgrade' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:redstone' to 'thermal:upgrade_augment_1' from kubejs:sealed_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:lever' to 'create:controls' from kubejs:sturdy_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:observer' to '2x create:track_observer' from kubejs:sturdy_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:energy_cell_frame' to 'thermal:energy_cell' from kubejs:sturdy_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:compass' to '2x create:track_station' from kubejs:sturdy_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:electron_tube' to '4x create:track_signal' from kubejs:sturdy_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:redstone' to 'thermal:upgrade_augment_2' from kubejs:sturdy_machine
+[01:43:45] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:glass' to '8x pneumaticcraft:thermal_lagging' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:rf_coil' to 'thermal:dynamo_lapidary' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:turbine_rotor' to 'pneumaticcraft:fluid_mixer' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:furnace' to 'pneumaticcraft:air_compressor' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:small_tank' to 'pneumaticcraft:liquid_compressor' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:blaze_burner' to 'pneumaticcraft:thermal_compressor' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:diamond' to 'pneumaticcraft:refinery_output' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:precision_mechanism' to 'pneumaticcraft:refinery' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:drill_pipe' to 'pneumaticcraft:gas_lift' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:basin' to 'pneumaticcraft:thermopneumatic_processing_plant' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:blaze_burner' to 'compressedcreativity:heater' from kubejs:sturdy_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:sturdy_machine' to '4x pneumaticcraft:turbine_blade'
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:sturdy_machine' to '8x pneumaticcraft:heat_pipe'
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:sturdy_machine' to '2x railways:track_coupler'
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:sturdy_machine' to '16x pneumaticcraft:pressure_tube'
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:sturdy_machine' to '4x pneumaticcraft:manual_compressor'
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:plastic_machine' to 'pneumaticcraft:charging_station'
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:glass_bottle' to 'thermal:device_potion_diffuser' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:ender_pearl' to 'thermal:device_collector' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:piston' to 'thermal:device_rock_gen' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:redstone' to 'thermal:upgrade_augment_3' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:reinforced_pressure_tube' to 'compressedcreativity:industrial_air_blower' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:copper_casing' to 'compressedcreativity:air_blower' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'compressedcreativity:engine_rotor' to 'compressedcreativity:compressed_air_engine' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:brass_casing' to 'compressedcreativity:rotational_compressor' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:gantry_carriage' to 'pneumaticcraft:elevator_base' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:precision_mechanism' to 'pneumaticcraft:programmer' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'kubejs:runic_tablet' to 'pneumaticcraft:electrostatic_compressor' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:cannon_barrel' to 'pneumaticcraft:air_cannon' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:liquid_compressor' to 'pneumaticcraft:advanced_liquid_compressor' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:air_compressor' to 'pneumaticcraft:advanced_air_compressor' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:hopper' to 'pneumaticcraft:omnidirectional_hopper' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:small_tank' to 'pneumaticcraft:liquid_hopper' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:rf_coil' to 'pneumaticcraft:pneumatic_dynamo' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:ender_eye' to 'pneumaticcraft:vacuum_trap' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:printed_circuit_board' to 'pneumaticcraft:pressurized_spawner' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'spirit:broken_spawner' to 'pneumaticcraft:spawner_agitator' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:solar_cell' to 'pneumaticcraft:solar_compressor' from kubejs:plastic_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:glowstone_dust' to 'ae2:semi_dark_monitor' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:redstone_block' to 'ae2:energy_acceptor' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:machine_crafter' to 'ae2:crafting_terminal' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'ae2:crafting_terminal' to 'ae2:wireless_crafting_terminal' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'ae2:terminal' to 'ae2:wireless_terminal' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'ae2:wireless_terminal' to 'ae2:wireless_crafting_terminal' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'ae2:fluix_pearl' to 'ae2:condenser' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:chest' to 'ae2:chest' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'integratedterminals:part_terminal_storage' to 'ae2:terminal' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:rf_coil' to 'thermal:dynamo_compression' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:cactus' to 'thermal:device_nullifier' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:nether_bricks' to 'thermal:machine_crucible' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:bricks' to 'thermal:machine_furnace' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:packed_ice' to 'thermal:machine_chiller' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:blaze_rod' to 'thermal:machine_pyrolyzer' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:bucket' to 'thermal:machine_bottler' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:compass' to 'thermal:machine_centrifuge' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:glass' to 'thermal:machine_refinery' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:flint' to 'thermal:machine_pulverizer' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:blast_furnace' to 'thermal:machine_smelter' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:saw_blade' to 'thermal:machine_sawmill' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:brewing_stand' to 'thermal:machine_brewer' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:dirt' to 'thermal:machine_insolator' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:quartz' to 'thermal:machine_crystallizer' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'functionalstorage:oak_2' to 'functionalstorage:controller_extension' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:mechanical_press' to 'thermal:machine_press' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:crafting_table' to 'thermal:machine_crafter' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:precision_mechanism' to 'pneumaticcraft:assembly_controller' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:pneumatic_cylinder' to 'pneumaticcraft:assembly_laser' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:mechanical_drill' to 'pneumaticcraft:assembly_drill' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:mechanical_arm' to 'pneumaticcraft:assembly_io_unit_export' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:deployer' to 'pneumaticcraft:assembly_io_unit_import' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:depot' to 'pneumaticcraft:assembly_platform' from kubejs:radiant_machine
+[01:43:46] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'createaddition:modular_accumulator' to 'integrateddynamics:energy_battery' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:rf_coil' to 'thermal:dynamo_gourmand' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'integrateddynamics:part_display_panel' to 'integratedterminals:part_terminal_storage' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:crafting_table' to 'integratedterminals:part_terminal_crafting_job' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'integrateddynamics:part_static_light_panel' to 'integrateddynamics:part_display_panel' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:clock' to 'integrateddynamics:delay' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'integrateddynamics:drying_basin' to 'integrateddynamics:mechanical_drying_basin' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'integrateddynamics:squeezer' to 'integrateddynamics:mechanical_squeezer' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'integrateddynamics:variable' to 'integrateddynamics:materializer' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'integrateddynamics:variablestore' to 'integrateddynamics:proxy' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:chest' to 'integrateddynamics:variablestore' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'integrateddynamics:variable_transformer_input' to 'integratednbt:nbt_extractor' from kubejs:integrational_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:integrational_machine' to '4x integrateddynamics:variable_transformer_output'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:integrational_machine' to '4x integrateddynamics:variable_transformer_input'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:integrational_machine' to '4x integrateddynamics:part_static_light_panel'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:integrational_machine' to 'integrateddynamics:logic_programmer'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:integrational_machine' to 'integrateddynamics:portable_logic_programmer'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:integrational_machine' to '4x integrateddynamics:cable'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:time_machine' to '4x ae2:formation_core'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:time_machine' to 'ae2:wireless_booster'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:time_machine' to 'ae2:cell_workbench'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:time_machine' to '6x ae2:basic_card'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:time_machine' to '4x ae2:annihilation_core'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:time_machine' to 'ae2:controller'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:time_machine' to 'ae2:inscriber'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'thermal:rf_coil' to 'thermal:dynamo_disenchantment' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'ae2:chest' to 'ae2:drive' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'pneumaticcraft:printed_circuit_board' to 'ae2:pattern_provider' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'ae2:engineering_processor' to 'ae2:molecular_assembler' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'ae2:calculation_processor' to 'ae2:advanced_card' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:piston' to 'ae2:storage_bus' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:portable_storage_interface' to 'ae2:io_port' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'ae2:logic_processor' to 'ae2:crafting_unit' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'create:brass_funnel' to 'ae2:interface' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:smithing_table' to 'ae2:cell_workbench' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'ae2:wireless_receiver' to 'ae2:wireless_access_point' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create Item.of('waystones:warp_stone', '{Damage:0}') to 'waystones:waystone' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create Item.of('waystones:warp_stone', '{Damage:0}') to 'waystones:mossy_waystone' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create Item.of('waystones:warp_stone', '{Damage:0}') to 'waystones:sandy_waystone' from kubejs:time_machine
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:supercritical_machine' to '2x entangled:block'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:552: 'kubejs:supercritical_machine' to 'multiblocked:entity'
+[01:43:47] [INFO ] server_scripts:compatRecipes.js:581: Attempting to Create 'minecraft:nether_star' to 'pneumaticcraft:aerial_interface' from kubejs:supercritical_machine
+[01:43:48] [INFO ] server_scripts:tasks.js:211: Posted recipe events in 4.069 s
+[01:43:48] [WARN ] server_scripts:tasks.js:211: Error parsing recipe create_sa:sponge_pressing[create:compacting]: {"type":"create:compacting","ingredients":[{"item":"minecraft:wet_sponge"}],"results":[{"item":"minecraft:sponge","count":1},{"fluid":"minecraft:water","amount":1000,"nbt":null}]}: com.google.gson.JsonSyntaxException: Expected nbt to be a string, was null (json)
+[01:43:48] [WARN ] server_scripts:tasks.js:211: Error parsing recipe tconstruct:smeltery/casts/gold_casts/nuggets[tconstruct:casting_table]: {"type":"tconstruct:casting_table","cast":{"item":"minecraft:air"},"cast_consumed":true,"switch_slots":true,"fluid":{"tag":"forge:molten_gold","amount":90},"result":"tconstruct:nugget_cast","cooling_time":57}: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[01:43:48] [WARN ] server_scripts:tasks.js:211: Error parsing recipe thermal:augments/fluid_filter_augment[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":[" c ","cSc"," c "],"key":{"c":{"item":"minecraft:air"},"S":{"item":"create:filter"}},"result":{"item":"thermal:fluid_filter_augment"},"conditions":[{"flag":"filter_augments","type":"thermal:flag"}]}: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[01:43:48] [INFO ] server_scripts:tasks.js:211: Modified & removed recipes in 461.6 ms
+[01:43:49] [WARN ] server_scripts:tasks.js:211: Error creating recipe lychee:kjs_1quzle4sdsikpkoel7tpputgs[lychee:block_crushing]: {"type":"lychee:block_crushing","item_in":[{"item":"thermal:gold_ingot"}],"post":[{"type":"drop_item","item":"thermal:gold_plate","contextual":{"type":"chance","chance":0.8}}]}: com.google.gson.JsonSyntaxException: Unknown item 'thermal:gold_ingot'
+[01:43:49] [WARN ] server_scripts:tasks.js:211: Error creating recipe lychee:kjs_c7p6c67ou6pshrbgkufxob0nw[lychee:block_crushing]: {"type":"lychee:block_crushing","item_in":[{"item":"thermal:netherite_ingot"}],"post":[{"type":"drop_item","item":"thermal:netherite_plate","contextual":{"type":"chance","chance":0.8}}]}: com.google.gson.JsonSyntaxException: Unknown item 'thermal:netherite_ingot'
+[01:43:49] [WARN ] server_scripts:tasks.js:211: Error creating recipe lychee:kjs_6lj8hjqf8qro7c6dtt7vkoc46[lychee:block_crushing]: {"type":"lychee:block_crushing","item_in":[{"item":"thermal:copper_ingot"}],"post":[{"type":"drop_item","item":"thermal:copper_plate","contextual":{"type":"chance","chance":0.8}}]}: com.google.gson.JsonSyntaxException: Unknown item 'thermal:copper_ingot'
+[01:43:49] [INFO ] server_scripts:tasks.js:211: Added recipes in 709.4 ms
+[01:43:49] [INFO ] server_scripts:tasks.js:211: Added 1467 recipes, removed 647 recipes, modified 354 recipes, with 6 failed recipes and 0 fall-backed recipes
+[01:44:07] [INFO ] server_scripts:tasks.js:211: Collecting Custom Machine upgrades from JS scripts.

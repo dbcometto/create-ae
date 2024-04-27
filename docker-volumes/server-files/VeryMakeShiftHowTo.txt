@@ -1,0 +1,7 @@
+If youre using a Remote Server
+Acces the server through FTP and make a directory like home/ubuntu/cae
+Then import all files into there.
+
+Now simply use your SSH/Console to acces that directory through cd home/ubuntu/cae (might be backslashes)
+
+then run: sh startserver.sh

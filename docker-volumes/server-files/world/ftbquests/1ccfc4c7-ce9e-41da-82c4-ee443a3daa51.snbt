@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "1ccfc4c7ce9e41da82c4ee443a3daa51"
+	name: "MineTurtle98"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

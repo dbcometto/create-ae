@@ -1,0 +1,741 @@
+[01:43:15.039][INFO]: Parsing all .json files in machines folder.
+[01:43:15.155][INFO]: Finished, 1 .json files successfully parsed in machines folder.
+[01:43:15.156][INFO]: Parsing all .json files in upgrades folder.
+[01:43:15.228][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
+[01:44:07.227][INFO]: Reading Custom Machinery Machines...
+[01:44:07.238][INFO]: Parsing machine json: quests:quest_station in datapack: KubeJS Resource Pack [data]
+[01:44:07.250][INFO]: Successfully parsed machine json: quests:quest_station
+[01:44:07.250][INFO]: Finished creating custom machines.
+[01:44:07.250][INFO]: Reading Custom Machinery Upgrades json
+[01:44:07.251][INFO]: No machine upgrade json found.
+[01:44:07.251][INFO]: Collecting machine upgrades with kubeJS.
+[01:44:07.252][INFO]: No machine upgrades found with kubejs
+[01:44:07.252][INFO]: Finished creating custom machine upgrades.
+[01:49:40.661][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/62 to clients
+[01:49:40.675][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/62 to clients.
+[01:49:40.688][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/151 to clients
+[01:49:40.689][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/151 to clients.
+[01:49:40.718][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/58 to clients
+[01:49:40.719][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/58 to clients.
+[01:49:40.783][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/98 to clients
+[01:49:40.784][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/98 to clients.
+[01:49:40.797][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/52 to clients
+[01:49:40.800][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/52 to clients.
+[01:49:40.825][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/115 to clients
+[01:49:40.826][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/115 to clients.
+[01:49:40.829][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/145 to clients
+[01:49:40.831][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/145 to clients.
+[01:49:40.893][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/142 to clients
+[01:49:40.897][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/142 to clients.
+[01:49:40.912][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/28 to clients
+[01:49:40.923][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/28 to clients.
+[01:49:40.926][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/12 to clients
+[01:49:40.928][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/12 to clients.
+[01:49:40.930][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/91 to clients
+[01:49:40.931][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/91 to clients.
+[01:49:40.935][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/92 to clients
+[01:49:40.937][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/92 to clients.
+[01:49:40.950][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/111 to clients
+[01:49:40.952][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/111 to clients.
+[01:49:40.978][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/106 to clients
+[01:49:40.979][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/106 to clients.
+[01:49:40.980][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/123 to clients
+[01:49:40.981][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/123 to clients.
+[01:49:40.981][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/81 to clients
+[01:49:40.982][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/81 to clients.
+[01:49:40.988][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/149 to clients
+[01:49:40.989][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/149 to clients.
+[01:49:40.990][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/32 to clients
+[01:49:40.991][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/32 to clients.
+[01:49:41.000][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/174 to clients
+[01:49:41.001][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/174 to clients.
+[01:49:41.016][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/84 to clients
+[01:49:41.017][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/84 to clients.
+[01:49:41.019][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/36 to clients
+[01:49:41.020][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/36 to clients.
+[01:49:41.030][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/60 to clients
+[01:49:41.032][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/60 to clients.
+[01:49:41.033][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/1 to clients
+[01:49:41.034][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/1 to clients.
+[01:49:41.039][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/18 to clients
+[01:49:41.041][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/18 to clients.
+[01:49:41.045][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/69 to clients
+[01:49:41.047][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/69 to clients.
+[01:49:41.051][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/99 to clients
+[01:49:41.052][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/99 to clients.
+[01:49:41.060][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/51 to clients
+[01:49:41.061][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/51 to clients.
+[01:49:41.064][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/57 to clients
+[01:49:41.065][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/57 to clients.
+[01:49:41.071][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/23 to clients
+[01:49:41.072][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/23 to clients.
+[01:49:41.079][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/59 to clients
+[01:49:41.080][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/59 to clients.
+[01:49:41.085][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/102 to clients
+[01:49:41.087][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/102 to clients.
+[01:49:41.096][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/40 to clients
+[01:49:41.097][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/40 to clients.
+[01:49:41.098][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/26 to clients
+[01:49:41.099][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/26 to clients.
+[01:49:41.121][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/53 to clients
+[01:49:41.122][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/53 to clients.
+[01:49:41.125][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/67 to clients
+[01:49:41.126][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/67 to clients.
+[01:49:41.127][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/10 to clients
+[01:49:41.128][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/10 to clients.
+[01:49:41.133][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/31 to clients
+[01:49:41.134][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/31 to clients.
+[01:49:41.139][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/74 to clients
+[01:49:41.141][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/74 to clients.
+[01:49:41.142][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/105 to clients
+[01:49:41.143][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/105 to clients.
+[01:49:41.144][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/61 to clients
+[01:49:41.145][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/61 to clients.
+[01:49:41.147][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/71 to clients
+[01:49:41.147][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/71 to clients.
+[01:49:41.148][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/177 to clients
+[01:49:41.150][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/177 to clients.
+[01:49:41.155][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/167 to clients
+[01:49:41.156][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/167 to clients.
+[01:49:41.159][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/136 to clients
+[01:49:41.159][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/136 to clients.
+[01:49:41.161][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/155 to clients
+[01:49:41.161][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/155 to clients.
+[01:49:41.166][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/3 to clients
+[01:49:41.167][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/3 to clients.
+[01:49:41.168][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/125 to clients
+[01:49:41.168][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/125 to clients.
+[01:49:41.169][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/37 to clients
+[01:49:41.169][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/37 to clients.
+[01:49:41.173][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/132 to clients
+[01:49:41.174][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/132 to clients.
+[01:49:41.177][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/153 to clients
+[01:49:41.178][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/153 to clients.
+[01:49:41.196][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/103 to clients
+[01:49:41.197][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/103 to clients.
+[01:49:41.199][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/140 to clients
+[01:49:41.199][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/140 to clients.
+[01:49:41.200][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/122 to clients
+[01:49:41.200][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/122 to clients.
+[01:49:41.202][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/2 to clients
+[01:49:41.202][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/2 to clients.
+[01:49:41.205][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/137 to clients
+[01:49:41.205][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/137 to clients.
+[01:49:41.209][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/70 to clients
+[01:49:41.210][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/70 to clients.
+[01:49:41.215][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/93 to clients
+[01:49:41.215][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/93 to clients.
+[01:49:41.231][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/35 to clients
+[01:49:41.232][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/35 to clients.
+[01:49:41.235][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/48 to clients
+[01:49:41.236][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/48 to clients.
+[01:49:41.239][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/170 to clients
+[01:49:41.241][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/170 to clients.
+[01:49:41.244][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/27 to clients
+[01:49:41.248][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/27 to clients.
+[01:49:41.250][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/6 to clients
+[01:49:41.251][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/6 to clients.
+[01:49:41.256][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/168 to clients
+[01:49:41.257][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/168 to clients.
+[01:49:41.258][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/44 to clients
+[01:49:41.262][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/44 to clients.
+[01:49:41.263][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/85 to clients
+[01:49:41.266][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/85 to clients.
+[01:49:41.302][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/97 to clients
+[01:49:41.304][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/97 to clients.
+[01:49:41.306][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/0 to clients
+[01:49:41.307][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/0 to clients.
+[01:49:41.312][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/175 to clients
+[01:49:41.312][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/175 to clients.
+[01:49:41.313][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/95 to clients
+[01:49:41.314][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/95 to clients.
+[01:49:41.325][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/72 to clients
+[01:49:41.327][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/72 to clients.
+[01:49:41.353][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/38 to clients
+[01:49:41.354][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/38 to clients.
+[01:49:41.356][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/11 to clients
+[01:49:41.357][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/11 to clients.
+[01:49:41.359][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/129 to clients
+[01:49:41.361][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/129 to clients.
+[01:49:41.369][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/7 to clients
+[01:49:41.371][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/7 to clients.
+[01:49:41.402][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/47 to clients
+[01:49:41.406][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/47 to clients.
+[01:49:41.419][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/22 to clients
+[01:49:41.420][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/22 to clients.
+[01:49:41.422][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/54 to clients
+[01:49:41.423][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/54 to clients.
+[01:49:41.425][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/181 to clients
+[01:49:41.426][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/181 to clients.
+[01:49:41.435][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/80 to clients
+[01:49:41.437][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/80 to clients.
+[01:49:41.438][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/30 to clients
+[01:49:41.440][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/30 to clients.
+[01:49:41.440][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/90 to clients
+[01:49:41.441][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/90 to clients.
+[01:49:41.455][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/164 to clients
+[01:49:41.457][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/164 to clients.
+[01:49:41.460][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/66 to clients
+[01:49:41.461][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/66 to clients.
+[01:49:41.463][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/169 to clients
+[01:49:41.464][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/169 to clients.
+[01:49:41.464][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/86 to clients
+[01:49:41.465][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/86 to clients.
+[01:49:41.471][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/15 to clients
+[01:49:41.472][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/15 to clients.
+[01:49:41.474][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/29 to clients
+[01:49:41.475][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/29 to clients.
+[01:49:41.477][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/159 to clients
+[01:49:41.478][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/159 to clients.
+[01:49:41.479][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/87 to clients
+[01:49:41.480][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/87 to clients.
+[01:49:41.486][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/165 to clients
+[01:49:41.487][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/165 to clients.
+[01:49:41.488][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/104 to clients
+[01:49:41.489][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/104 to clients.
+[01:49:41.494][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/33 to clients
+[01:49:41.496][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/33 to clients.
+[01:49:41.503][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/64 to clients
+[01:49:41.504][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/64 to clients.
+[01:49:41.505][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/118 to clients
+[01:49:41.506][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/118 to clients.
+[01:49:41.518][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/83 to clients
+[01:49:41.520][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/83 to clients.
+[01:49:41.536][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/16 to clients
+[01:49:41.539][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/16 to clients.
+[01:49:41.540][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/108 to clients
+[01:49:41.541][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/108 to clients.
+[01:49:41.553][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/158 to clients
+[01:49:41.555][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/158 to clients.
+[01:49:41.558][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/148 to clients
+[01:49:41.560][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/148 to clients.
+[01:49:41.581][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/133 to clients
+[01:49:41.582][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/133 to clients.
+[01:49:41.590][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/110 to clients
+[01:49:41.593][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/110 to clients.
+[01:49:41.594][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/50 to clients
+[01:49:41.595][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/50 to clients.
+[01:49:41.601][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/128 to clients
+[01:49:41.602][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/128 to clients.
+[01:49:41.605][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/147 to clients
+[01:49:41.606][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/147 to clients.
+[01:49:41.615][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/94 to clients
+[01:49:41.616][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/94 to clients.
+[01:49:41.617][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/56 to clients
+[01:49:41.618][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/56 to clients.
+[01:49:41.620][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/76 to clients
+[01:49:41.621][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/76 to clients.
+[01:49:41.623][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/73 to clients
+[01:49:41.624][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/73 to clients.
+[01:49:41.629][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/162 to clients
+[01:49:41.630][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/162 to clients.
+[01:49:41.638][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/46 to clients
+[01:49:41.640][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/46 to clients.
+[01:49:41.649][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/63 to clients
+[01:49:41.649][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/63 to clients.
+[01:49:41.651][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/150 to clients
+[01:49:41.652][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/150 to clients.
+[01:49:41.657][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/14 to clients
+[01:49:41.658][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/14 to clients.
+[01:49:41.659][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/113 to clients
+[01:49:41.660][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/113 to clients.
+[01:49:41.667][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/180 to clients
+[01:49:41.669][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/180 to clients.
+[01:49:41.672][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/82 to clients
+[01:49:41.672][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/82 to clients.
+[01:49:41.679][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/157 to clients
+[01:49:41.680][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/157 to clients.
+[01:49:41.691][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/89 to clients
+[01:49:41.692][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/89 to clients.
+[01:49:41.696][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/112 to clients
+[01:49:41.697][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/112 to clients.
+[01:49:41.700][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/25 to clients
+[01:49:41.701][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/25 to clients.
+[01:49:41.703][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/121 to clients
+[01:49:41.703][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/121 to clients.
+[01:49:41.707][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/24 to clients
+[01:49:41.708][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/24 to clients.
+[01:49:41.713][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/19 to clients
+[01:49:41.715][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/19 to clients.
+[01:49:41.721][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/143 to clients
+[01:49:41.724][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/143 to clients.
+[01:49:41.726][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/163 to clients
+[01:49:41.727][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/163 to clients.
+[01:49:41.728][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/21 to clients
+[01:49:41.729][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/21 to clients.
+[01:49:41.730][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/34 to clients
+[01:49:41.732][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/34 to clients.
+[01:49:41.734][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/17 to clients
+[01:49:41.735][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/17 to clients.
+[01:49:41.739][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/124 to clients
+[01:49:41.741][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/124 to clients.
+[01:49:41.770][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/101 to clients
+[01:49:41.772][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/101 to clients.
+[01:49:41.775][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/55 to clients
+[01:49:41.776][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/55 to clients.
+[01:49:41.777][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/127 to clients
+[01:49:41.778][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/127 to clients.
+[01:49:41.780][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/126 to clients
+[01:49:41.781][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/126 to clients.
+[01:49:41.786][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/116 to clients
+[01:49:41.787][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/116 to clients.
+[01:49:41.793][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/4 to clients
+[01:49:41.794][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/4 to clients.
+[01:49:41.795][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/166 to clients
+[01:49:41.796][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/166 to clients.
+[01:49:41.798][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/65 to clients
+[01:49:41.799][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/65 to clients.
+[01:49:41.800][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/141 to clients
+[01:49:41.800][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/141 to clients.
+[01:49:41.803][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/161 to clients
+[01:49:41.804][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/161 to clients.
+[01:49:41.811][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/154 to clients
+[01:49:41.812][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/154 to clients.
+[01:49:41.812][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/144 to clients
+[01:49:41.813][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/144 to clients.
+[01:49:41.821][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/39 to clients
+[01:49:41.823][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/39 to clients.
+[01:49:41.829][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/9 to clients
+[01:49:41.830][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/9 to clients.
+[01:49:41.834][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/5 to clients
+[01:49:41.836][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/5 to clients.
+[01:49:41.838][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/179 to clients
+[01:49:41.838][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/179 to clients.
+[01:49:41.843][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/139 to clients
+[01:49:41.844][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/139 to clients.
+[01:49:41.845][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/173 to clients
+[01:49:41.846][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/173 to clients.
+[01:49:41.851][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/75 to clients
+[01:49:41.852][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/75 to clients.
+[01:49:41.858][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/176 to clients
+[01:49:41.859][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/176 to clients.
+[01:49:41.862][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/146 to clients
+[01:49:41.863][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/146 to clients.
+[01:49:41.867][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/131 to clients
+[01:49:41.868][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/131 to clients.
+[01:49:41.870][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/43 to clients
+[01:49:41.871][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/43 to clients.
+[01:49:41.873][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/119 to clients
+[01:49:41.873][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/119 to clients.
+[01:49:41.879][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/77 to clients
+[01:49:41.880][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/77 to clients.
+[01:49:41.884][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/130 to clients
+[01:49:41.885][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/130 to clients.
+[01:49:41.886][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/49 to clients
+[01:49:41.887][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/49 to clients.
+[01:49:41.889][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/45 to clients
+[01:49:41.890][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/45 to clients.
+[01:49:41.896][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/156 to clients
+[01:49:41.897][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/156 to clients.
+[01:49:41.901][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/41 to clients
+[01:49:41.902][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/41 to clients.
+[01:49:41.903][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/88 to clients
+[01:49:41.905][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/88 to clients.
+[01:49:41.926][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/117 to clients
+[01:49:41.927][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/117 to clients.
+[01:49:41.928][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/79 to clients
+[01:49:41.928][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/79 to clients.
+[01:49:41.935][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/20 to clients
+[01:49:41.936][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/20 to clients.
+[01:49:41.938][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/96 to clients
+[01:49:41.938][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/96 to clients.
+[01:49:41.941][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/114 to clients
+[01:49:41.943][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/114 to clients.
+[01:49:41.944][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/171 to clients
+[01:49:41.944][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/171 to clients.
+[01:49:41.945][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/172 to clients
+[01:49:41.946][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/172 to clients.
+[01:49:41.951][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/68 to clients
+[01:49:41.952][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/68 to clients.
+[01:49:41.954][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/13 to clients
+[01:49:41.955][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/13 to clients.
+[01:49:41.957][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/152 to clients
+[01:49:41.957][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/152 to clients.
+[01:49:41.959][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/120 to clients
+[01:49:41.960][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/120 to clients.
+[01:49:41.965][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/8 to clients
+[01:49:41.966][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/8 to clients.
+[01:49:41.968][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/100 to clients
+[01:49:41.969][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/100 to clients.
+[01:49:41.971][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/160 to clients
+[01:49:41.971][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/160 to clients.
+[01:49:41.972][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/138 to clients
+[01:49:41.972][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/138 to clients.
+[01:49:41.982][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/107 to clients
+[01:49:41.983][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/107 to clients.
+[01:49:41.987][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/42 to clients
+[01:49:41.988][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/42 to clients.
+[01:49:41.990][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/134 to clients
+[01:49:41.991][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/134 to clients.
+[01:49:41.995][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/178 to clients
+[01:49:41.996][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/178 to clients.
+[01:49:42.003][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/135 to clients
+[01:49:42.004][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/135 to clients.
+[01:49:42.007][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/109 to clients
+[01:49:42.009][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/109 to clients.
+[01:49:42.012][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/78 to clients
+[01:49:42.013][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/78 to clients.
+[03:19:52.435][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/62 to clients
+[03:19:52.447][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/62 to clients.
+[03:19:52.464][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/151 to clients
+[03:19:52.465][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/151 to clients.
+[03:19:52.477][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/58 to clients
+[03:19:52.481][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/58 to clients.
+[03:19:52.548][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/98 to clients
+[03:19:52.549][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/98 to clients.
+[03:19:52.556][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/52 to clients
+[03:19:52.557][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/52 to clients.
+[03:19:52.583][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/115 to clients
+[03:19:52.584][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/115 to clients.
+[03:19:52.587][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/145 to clients
+[03:19:52.588][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/145 to clients.
+[03:19:52.647][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/142 to clients
+[03:19:52.649][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/142 to clients.
+[03:19:52.667][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/28 to clients
+[03:19:52.668][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/28 to clients.
+[03:19:52.670][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/12 to clients
+[03:19:52.672][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/12 to clients.
+[03:19:52.674][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/91 to clients
+[03:19:52.675][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/91 to clients.
+[03:19:52.682][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/92 to clients
+[03:19:52.683][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/92 to clients.
+[03:19:52.692][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/111 to clients
+[03:19:52.693][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/111 to clients.
+[03:19:52.709][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/106 to clients
+[03:19:52.711][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/106 to clients.
+[03:19:52.712][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/123 to clients
+[03:19:52.713][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/123 to clients.
+[03:19:52.713][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/81 to clients
+[03:19:52.714][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/81 to clients.
+[03:19:52.719][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/149 to clients
+[03:19:52.719][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/149 to clients.
+[03:19:52.720][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/32 to clients
+[03:19:52.722][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/32 to clients.
+[03:19:52.733][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/174 to clients
+[03:19:52.734][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/174 to clients.
+[03:19:52.742][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/84 to clients
+[03:19:52.743][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/84 to clients.
+[03:19:52.744][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/36 to clients
+[03:19:52.745][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/36 to clients.
+[03:19:52.755][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/60 to clients
+[03:19:52.757][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/60 to clients.
+[03:19:52.758][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/1 to clients
+[03:19:52.758][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/1 to clients.
+[03:19:52.761][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/18 to clients
+[03:19:52.763][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/18 to clients.
+[03:19:52.765][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/69 to clients
+[03:19:52.766][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/69 to clients.
+[03:19:52.770][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/99 to clients
+[03:19:52.771][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/99 to clients.
+[03:19:52.781][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/51 to clients
+[03:19:52.782][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/51 to clients.
+[03:19:52.793][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/57 to clients
+[03:19:52.794][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/57 to clients.
+[03:19:52.803][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/23 to clients
+[03:19:52.804][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/23 to clients.
+[03:19:52.810][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/59 to clients
+[03:19:52.812][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/59 to clients.
+[03:19:52.823][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/102 to clients
+[03:19:52.824][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/102 to clients.
+[03:19:52.836][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/40 to clients
+[03:19:52.839][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/40 to clients.
+[03:19:52.841][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/26 to clients
+[03:19:52.842][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/26 to clients.
+[03:19:52.874][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/53 to clients
+[03:19:52.876][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/53 to clients.
+[03:19:52.896][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/67 to clients
+[03:19:52.898][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/67 to clients.
+[03:19:52.899][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/10 to clients
+[03:19:52.900][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/10 to clients.
+[03:19:52.909][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/31 to clients
+[03:19:52.910][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/31 to clients.
+[03:19:52.918][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/74 to clients
+[03:19:52.919][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/74 to clients.
+[03:19:52.920][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/105 to clients
+[03:19:52.921][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/105 to clients.
+[03:19:52.924][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/61 to clients
+[03:19:52.925][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/61 to clients.
+[03:19:52.926][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/71 to clients
+[03:19:52.927][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/71 to clients.
+[03:19:52.929][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/177 to clients
+[03:19:52.931][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/177 to clients.
+[03:19:52.933][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/167 to clients
+[03:19:52.934][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/167 to clients.
+[03:19:52.937][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/136 to clients
+[03:19:52.944][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/136 to clients.
+[03:19:52.946][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/155 to clients
+[03:19:52.949][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/155 to clients.
+[03:19:52.959][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/3 to clients
+[03:19:52.962][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/3 to clients.
+[03:19:52.963][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/125 to clients
+[03:19:52.965][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/125 to clients.
+[03:19:52.966][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/37 to clients
+[03:19:52.967][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/37 to clients.
+[03:19:52.971][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/132 to clients
+[03:19:52.972][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/132 to clients.
+[03:19:52.974][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/153 to clients
+[03:19:52.978][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/153 to clients.
+[03:19:53.002][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/103 to clients
+[03:19:53.005][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/103 to clients.
+[03:19:53.007][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/140 to clients
+[03:19:53.008][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/140 to clients.
+[03:19:53.009][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/122 to clients
+[03:19:53.010][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/122 to clients.
+[03:19:53.011][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/2 to clients
+[03:19:53.012][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/2 to clients.
+[03:19:53.014][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/137 to clients
+[03:19:53.015][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/137 to clients.
+[03:19:53.021][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/70 to clients
+[03:19:53.022][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/70 to clients.
+[03:19:53.025][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/93 to clients
+[03:19:53.026][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/93 to clients.
+[03:19:53.035][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/35 to clients
+[03:19:53.036][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/35 to clients.
+[03:19:53.040][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/48 to clients
+[03:19:53.042][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/48 to clients.
+[03:19:53.047][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/170 to clients
+[03:19:53.048][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/170 to clients.
+[03:19:53.049][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/27 to clients
+[03:19:53.050][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/27 to clients.
+[03:19:53.051][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/6 to clients
+[03:19:53.052][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/6 to clients.
+[03:19:53.058][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/168 to clients
+[03:19:53.059][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/168 to clients.
+[03:19:53.060][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/44 to clients
+[03:19:53.062][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/44 to clients.
+[03:19:53.065][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/85 to clients
+[03:19:53.066][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/85 to clients.
+[03:19:53.096][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/97 to clients
+[03:19:53.109][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/97 to clients.
+[03:19:53.113][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/0 to clients
+[03:19:53.114][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/0 to clients.
+[03:19:53.116][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/175 to clients
+[03:19:53.117][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/175 to clients.
+[03:19:53.117][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/95 to clients
+[03:19:53.118][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/95 to clients.
+[03:19:53.122][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/72 to clients
+[03:19:53.123][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/72 to clients.
+[03:19:53.129][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/38 to clients
+[03:19:53.130][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/38 to clients.
+[03:19:53.131][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/11 to clients
+[03:19:53.132][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/11 to clients.
+[03:19:53.133][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/129 to clients
+[03:19:53.134][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/129 to clients.
+[03:19:53.135][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/7 to clients
+[03:19:53.136][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/7 to clients.
+[03:19:53.150][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/47 to clients
+[03:19:53.153][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/47 to clients.
+[03:19:53.166][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/22 to clients
+[03:19:53.198][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/22 to clients.
+[03:19:53.205][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/54 to clients
+[03:19:53.209][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/54 to clients.
+[03:19:53.214][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/181 to clients
+[03:19:53.216][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/181 to clients.
+[03:19:53.234][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/80 to clients
+[03:19:53.241][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/80 to clients.
+[03:19:53.259][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/30 to clients
+[03:19:53.261][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/30 to clients.
+[03:19:53.262][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/90 to clients
+[03:19:53.264][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/90 to clients.
+[03:19:53.274][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/164 to clients
+[03:19:53.275][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/164 to clients.
+[03:19:53.276][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/66 to clients
+[03:19:53.280][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/66 to clients.
+[03:19:53.282][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/169 to clients
+[03:19:53.283][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/169 to clients.
+[03:19:53.284][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/86 to clients
+[03:19:53.285][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/86 to clients.
+[03:19:53.287][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/15 to clients
+[03:19:53.288][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/15 to clients.
+[03:19:53.289][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/29 to clients
+[03:19:53.289][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/29 to clients.
+[03:19:53.291][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/159 to clients
+[03:19:53.292][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/159 to clients.
+[03:19:53.292][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/87 to clients
+[03:19:53.293][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/87 to clients.
+[03:19:53.301][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/165 to clients
+[03:19:53.302][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/165 to clients.
+[03:19:53.303][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/104 to clients
+[03:19:53.304][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/104 to clients.
+[03:19:53.309][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/33 to clients
+[03:19:53.312][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/33 to clients.
+[03:19:53.319][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/64 to clients
+[03:19:53.320][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/64 to clients.
+[03:19:53.322][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/118 to clients
+[03:19:53.322][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/118 to clients.
+[03:19:53.327][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/83 to clients
+[03:19:53.330][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/83 to clients.
+[03:19:53.336][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/16 to clients
+[03:19:53.337][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/16 to clients.
+[03:19:53.338][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/108 to clients
+[03:19:53.339][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/108 to clients.
+[03:19:53.341][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/158 to clients
+[03:19:53.342][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/158 to clients.
+[03:19:53.343][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/148 to clients
+[03:19:53.343][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/148 to clients.
+[03:19:53.348][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/133 to clients
+[03:19:53.349][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/133 to clients.
+[03:19:53.354][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/110 to clients
+[03:19:53.355][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/110 to clients.
+[03:19:53.356][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/50 to clients
+[03:19:53.357][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/50 to clients.
+[03:19:53.359][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/128 to clients
+[03:19:53.360][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/128 to clients.
+[03:19:53.363][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/147 to clients
+[03:19:53.364][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/147 to clients.
+[03:19:53.369][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/94 to clients
+[03:19:53.370][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/94 to clients.
+[03:19:53.371][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/56 to clients
+[03:19:53.371][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/56 to clients.
+[03:19:53.373][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/76 to clients
+[03:19:53.374][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/76 to clients.
+[03:19:53.376][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/73 to clients
+[03:19:53.376][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/73 to clients.
+[03:19:53.379][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/162 to clients
+[03:19:53.380][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/162 to clients.
+[03:19:53.385][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/46 to clients
+[03:19:53.385][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/46 to clients.
+[03:19:53.392][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/63 to clients
+[03:19:53.393][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/63 to clients.
+[03:19:53.395][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/150 to clients
+[03:19:53.395][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/150 to clients.
+[03:19:53.398][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/14 to clients
+[03:19:53.399][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/14 to clients.
+[03:19:53.399][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/113 to clients
+[03:19:53.400][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/113 to clients.
+[03:19:53.403][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/180 to clients
+[03:19:53.403][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/180 to clients.
+[03:19:53.405][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/82 to clients
+[03:19:53.406][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/82 to clients.
+[03:19:53.410][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/157 to clients
+[03:19:53.410][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/157 to clients.
+[03:19:53.415][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/89 to clients
+[03:19:53.416][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/89 to clients.
+[03:19:53.418][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/112 to clients
+[03:19:53.419][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/112 to clients.
+[03:19:53.421][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/25 to clients
+[03:19:53.422][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/25 to clients.
+[03:19:53.423][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/121 to clients
+[03:19:53.424][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/121 to clients.
+[03:19:53.428][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/24 to clients
+[03:19:53.429][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/24 to clients.
+[03:19:53.433][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/19 to clients
+[03:19:53.435][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/19 to clients.
+[03:19:53.439][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/143 to clients
+[03:19:53.440][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/143 to clients.
+[03:19:53.442][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/163 to clients
+[03:19:53.443][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/163 to clients.
+[03:19:53.444][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/21 to clients
+[03:19:53.445][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/21 to clients.
+[03:19:53.446][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/34 to clients
+[03:19:53.446][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/34 to clients.
+[03:19:53.449][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/17 to clients
+[03:19:53.449][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/17 to clients.
+[03:19:53.452][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/124 to clients
+[03:19:53.452][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/124 to clients.
+[03:19:53.539][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/101 to clients
+[03:19:53.540][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/101 to clients.
+[03:19:53.542][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/55 to clients
+[03:19:53.542][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/55 to clients.
+[03:19:53.543][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/127 to clients
+[03:19:53.544][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/127 to clients.
+[03:19:53.545][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/126 to clients
+[03:19:53.546][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/126 to clients.
+[03:19:53.550][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/116 to clients
+[03:19:53.551][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/116 to clients.
+[03:19:53.555][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/4 to clients
+[03:19:53.556][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/4 to clients.
+[03:19:53.557][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/166 to clients
+[03:19:53.557][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/166 to clients.
+[03:19:53.560][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/65 to clients
+[03:19:53.561][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/65 to clients.
+[03:19:53.561][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/141 to clients
+[03:19:53.562][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/141 to clients.
+[03:19:53.564][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/161 to clients
+[03:19:53.564][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/161 to clients.
+[03:19:53.568][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/154 to clients
+[03:19:53.569][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/154 to clients.
+[03:19:53.570][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/144 to clients
+[03:19:53.571][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/144 to clients.
+[03:19:53.576][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/39 to clients
+[03:19:53.577][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/39 to clients.
+[03:19:53.581][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/9 to clients
+[03:19:53.582][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/9 to clients.
+[03:19:53.585][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/5 to clients
+[03:19:53.586][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/5 to clients.
+[03:19:53.587][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/179 to clients
+[03:19:53.587][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/179 to clients.
+[03:19:53.591][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/139 to clients
+[03:19:53.592][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/139 to clients.
+[03:19:53.592][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/173 to clients
+[03:19:53.593][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/173 to clients.
+[03:19:53.596][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/75 to clients
+[03:19:53.597][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/75 to clients.
+[03:19:53.604][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/176 to clients
+[03:19:53.604][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/176 to clients.
+[03:19:53.606][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/146 to clients
+[03:19:53.607][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/146 to clients.
+[03:19:53.611][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/131 to clients
+[03:19:53.611][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/131 to clients.
+[03:19:53.613][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/43 to clients
+[03:19:53.613][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/43 to clients.
+[03:19:53.615][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/119 to clients
+[03:19:53.616][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/119 to clients.
+[03:19:53.620][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/77 to clients
+[03:19:53.620][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/77 to clients.
+[03:19:53.623][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/130 to clients
+[03:19:53.624][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/130 to clients.
+[03:19:53.625][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/49 to clients
+[03:19:53.625][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/49 to clients.
+[03:19:53.627][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/45 to clients
+[03:19:53.628][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/45 to clients.
+[03:19:53.634][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/156 to clients
+[03:19:53.634][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/156 to clients.
+[03:19:53.637][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/41 to clients
+[03:19:53.638][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/41 to clients.
+[03:19:53.638][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/88 to clients
+[03:19:53.639][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/88 to clients.
+[03:19:53.653][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/117 to clients
+[03:19:53.653][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/117 to clients.
+[03:19:53.654][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/79 to clients
+[03:19:53.654][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/79 to clients.
+[03:19:53.659][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/20 to clients
+[03:19:53.660][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/20 to clients.
+[03:19:53.661][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/96 to clients
+[03:19:53.661][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/96 to clients.
+[03:19:53.663][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/114 to clients
+[03:19:53.663][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/114 to clients.
+[03:19:53.664][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/171 to clients
+[03:19:53.665][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/171 to clients.
+[03:19:53.665][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/172 to clients
+[03:19:53.666][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/172 to clients.
+[03:19:53.670][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/68 to clients
+[03:19:53.671][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/68 to clients.
+[03:19:53.672][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/13 to clients
+[03:19:53.673][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/13 to clients.
+[03:19:53.675][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/152 to clients
+[03:19:53.676][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/152 to clients.
+[03:19:53.677][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/120 to clients
+[03:19:53.678][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/120 to clients.
+[03:19:53.681][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/8 to clients
+[03:19:53.682][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/8 to clients.
+[03:19:53.684][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/100 to clients
+[03:19:53.684][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/100 to clients.
+[03:19:53.687][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/160 to clients
+[03:19:53.688][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/160 to clients.
+[03:19:53.689][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/138 to clients
+[03:19:53.689][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/138 to clients.
+[03:19:53.697][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/107 to clients
+[03:19:53.698][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/107 to clients.
+[03:19:53.703][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/42 to clients
+[03:19:53.704][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/42 to clients.
+[03:19:53.705][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/134 to clients
+[03:19:53.706][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/134 to clients.
+[03:19:53.709][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/178 to clients
+[03:19:53.710][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/178 to clients.
+[03:19:53.717][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/135 to clients
+[03:19:53.718][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/135 to clients.
+[03:19:53.720][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/109 to clients
+[03:19:53.720][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/109 to clients.
+[03:19:53.722][INFO]: Sending recipe: kubejs:custom_machine/quests/quest_station/78 to clients
+[03:19:53.722][INFO]: Sucessfully send recipe: kubejs:custom_machine/quests/quest_station/78 to clients.
