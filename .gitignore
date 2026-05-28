@@ -1,0 +1,26 @@
+# World state
+docker-volumes/server-files/world/
+docker-volumes/server-files/backups/
+docker-volumes/server-files/config/jei/world/
+
+# Logs
+docker-volumes/server-files/logs/
+docker-volumes/server-files/kubejs/config/latest.log
+
+# Generated/runtime libraries
+docker-volumes/server-files/libraries/
+
+# Runtime cache/index
+docker-volumes/server-files/modernfix/
+docker-volumes/server-files/config/spark/tmp/
+docker-volumes/server-files/kubejs/probe/
+docker-volumes/server-files/kubejs/exported/
+
+# Runtime session files
+docker-volumes/server-files/session.lock
+docker-volumes/server-files/usercache.json
+docker-volumes/server-files/usernamecache.json
+docker-volumes/server-files/*.log
+
+# Installer log (not the installer itself)
+docker-volumes/server-files/*.jar.log

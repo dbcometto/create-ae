@@ -1,7 +1,5 @@
-FROM ubuntu:latest
+FROM ubuntu:24.04
 WORKDIR /opt/server
-RUN apt-get update && apt-get install -y wget \
-    && wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb \
-    && dpkg -i jdk-17_linux-x64_bin.deb && java -version
+RUN apt-get update && apt-get install -y openjdk-17-jdk
 EXPOSE 55555
-CMD ["./serverfiles/startserver.sh"]
+CMD ["./server-files/startserver.sh"]
