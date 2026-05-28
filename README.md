@@ -7,4 +7,4 @@ To install, first clone the repo.  Then, from the repo root, run
 docker compose up
 ```
 
-The config is already set, and the eula is already set to true.
+The config is already set, and the eula is already set to true.  Important to note is that Github will not save the world, the backups, the logs, or anything else in the `.gitignore`, so a separate solution would be needed to manage those.
