@@ -15,6 +15,7 @@ docker-volumes/server-files/modernfix/
 docker-volumes/server-files/config/spark/tmp/
 docker-volumes/server-files/kubejs/probe/
 docker-volumes/server-files/kubejs/exported/
+docker-volumes/server-files/config/byg/backups/
 
 # Runtime session files
 docker-volumes/server-files/session.lock
