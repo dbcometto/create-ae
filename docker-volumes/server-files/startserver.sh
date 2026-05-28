@@ -1,5 +1,5 @@
 #!/bin/sh
-set -eu
+#set -eu
 FORGE_VERSION=40.2.9
 # To use a specific Java runtime, set an environment variable named CAE_JAVA to the full path of java.exe.
 # To disable automatic restarts, set an environment variable named CAE_RESTART to false.
