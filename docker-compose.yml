@@ -3,8 +3,9 @@ services:
   mcserver:
     build: ./mc-server
     image: mc-server
-    ports:
-      - 55555:55555
+    network_mode: host
+    # ports:
+    #   - 55555:55555
     command: screen -DmS mc bash ./server-files/startserver.sh
     volumes:
       - ./docker-volumes/server-files/:/opt/server/server-files/
